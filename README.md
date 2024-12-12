@@ -5,8 +5,16 @@ How to run this project:
 1. Java Development Kit (JDK): Ensure you have a JDK installed. 
 
 2. Clone the Repository
+```
+git clone https://github.com/amanks5/DataProcssesingStorage.git
+```
+
 
 3. Navigate to the project directory: This directory should contain your README.md file and a subfolder named src.
+```
+cd DataProcssesingStorage
+```
+Then 
 
 ```
 cd src
